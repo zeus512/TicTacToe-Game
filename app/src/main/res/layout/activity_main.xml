@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/j"
+    android:background="@drawable/bg_main"
     tools:context="com.example.root.tictactoe.MainActivity">
 
     <Button
@@ -14,7 +14,7 @@
         android:layout_marginBottom="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
-        android:textColor="#ffffffff"
+        android:textColor="#ffffff"
         android:layout_marginTop="8dp"
         android:background="@android:color/holo_red_light"
         android:text="Start Game"
